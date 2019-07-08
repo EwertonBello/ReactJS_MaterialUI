@@ -7,7 +7,6 @@ import MenuIcon from '@material-ui/icons/Menu';
 import Drawer from '@material-ui/core/Drawer';
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import { createMuiTheme } from '@material-ui/core/styles';
-import grey from '@material-ui/core/colors/grey';
 import { Link } from 'react-router-dom';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
@@ -23,7 +22,7 @@ const theme = createMuiTheme({
     useNextVariants: true,
   },
   palette: {
-    primary: {main: grey[900]}
+    primary: {main: "#000"}
   }
 });
 

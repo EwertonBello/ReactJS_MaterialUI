@@ -8,7 +8,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import Details from './pages/details/Details';
 
 ReactDOM.render(
-<BrowserRouter>
+<BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch>
             <Route path="/" exact={true} component={App} />
             <Route path="/home" component={Home} />
