@@ -6,7 +6,9 @@ Um WebApp simples em ReactJS, com consumo da API do StarWars e implementação d
 <Strong>Material-UI Core: </Strong>(https://www.npmjs.com/package/@material-ui/core)<br/>
 <Strong>Material-UI Icons: </Strong>(https://www.npmjs.com/package/@material-ui/icons)<br/>
 E uma ferramenta que utilizei para auxiliar na criação dos componentes.<br/>
-<Strong>Create React Component Folder: </Strong>(https://www.npmjs.com/package/create-react-component-folder)<br/><hr>
+<Strong>Create React Component Folder: </Strong>(https://www.npmjs.com/package/create-react-component-folder)<br/>
+<Strong>Demo: </Strong>(https://ewertonbello.github.io/ReactJS_MaterialUI/)
+<hr>
 
 <div>
 <img src="https://github.com/EwertonBello/ReactJS_MaterialUI/blob/master/ReactJS01.gif" width="70%">
