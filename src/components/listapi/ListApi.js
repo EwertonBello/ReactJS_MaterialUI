@@ -9,7 +9,7 @@ import { withRouter } from 'react-router-dom';
 
 import './ListApi.css';
 
-const API = 'https://swapi.co/api/films/';
+const API = 'https://swapi.dev/api/films/';
 const IMAGE = 'https://www.desktopbackground.org/p/2014/03/24/736572_star-wars-logo-wallpapers-wallpapers-cave_1600x900_h.png';
 
 class ListApi extends Component {
