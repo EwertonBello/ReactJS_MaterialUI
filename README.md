@@ -1,6 +1,6 @@
 # ReactJS Material-UI
 Um WebApp simples em ReactJS, com consumo da API do StarWars e implementação do MaterialUI no design.<br/><br/>
-<Strong>API Star Wars: </Strong>(https://swapi.co)<br/>
+<Strong>API Star Wars: </Strong>(https://swapi.dev)<br/>
 <Strong>React-Router-Dom: </Strong>(https://www.npmjs.com/package/react-router-dom)<br/>
 <Strong>Material-UI: </Strong>(https://material-ui.com/)<br/>
 <Strong>Material-UI Core: </Strong>(https://www.npmjs.com/package/@material-ui/core)<br/>
